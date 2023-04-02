@@ -3,6 +3,8 @@ To start the Project
 Go to backend folder ==> npm i
 GO to Frontend FOlder ==> npm i
 
+I have also managed Seeder if you are not able to see any product then Please Run Seeder By npm run seed
+
 to start Backend ==> npm run nodemon
 to start Frontend ==> npm start
 
